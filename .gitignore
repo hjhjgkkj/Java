@@ -38,3 +38,6 @@ build/
 ### OS ###
 .DS_Store
 Thumbs.db
+
+### Local Config (不提交本地密码) ###
+application.yml
